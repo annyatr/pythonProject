@@ -1,2 +1,2 @@
-t("Hello")
+print("Hello")
 
